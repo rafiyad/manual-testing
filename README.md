@@ -1,1 +1,1 @@
-# manual-testing
+# Excel sheet of manual-testing different websites
